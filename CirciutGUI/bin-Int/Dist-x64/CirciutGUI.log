@@ -1,0 +1,33 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\bin-Int\Dist-x64\) contains files shared from another project (FireBase.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Blank_App.cpp
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Timer.hpp(19,4): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'src/Blank_App.cpp')
+  
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(127,19): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(127,19): warning C4244:         with
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(127,19): warning C4244:         [
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(127,19): warning C4244:             T=float
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(127,19): warning C4244:         ]
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(126,19): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(126,19): warning C4244:         with
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(126,19): warning C4244:         [
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(126,19): warning C4244:             T=float
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(126,19): warning C4244:         ]
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(125,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(125,29): warning C4244:         with
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(125,29): warning C4244:         [
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(125,29): warning C4244:             T=float
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(125,29): warning C4244:         ]
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(124,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(124,29): warning C4244:         with
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(124,29): warning C4244:         [
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(124,29): warning C4244:             T=float
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(124,29): warning C4244:         ]
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(470,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  0 of 3369 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CirciutGUI.vcxproj -> D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\bin\Dist-x64\Blank App_x64.exe

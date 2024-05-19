@@ -1,0 +1,66 @@
+﻿  Blank_App_main.cpp
+  Blank_App.cpp
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(127,19): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(127,19): warning C4244:         with
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(127,19): warning C4244:         [
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(127,19): warning C4244:             T=float
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(127,19): warning C4244:         ]
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(126,19): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(126,19): warning C4244:         with
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(126,19): warning C4244:         [
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(126,19): warning C4244:             T=float
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(126,19): warning C4244:         ]
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(125,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(125,29): warning C4244:         with
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(125,29): warning C4244:         [
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(125,29): warning C4244:             T=float
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(125,29): warning C4244:         ]
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(124,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(124,29): warning C4244:         with
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(124,29): warning C4244:         [
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(124,29): warning C4244:             T=float
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(124,29): warning C4244:         ]
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_App.cpp(470,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  Blank_GUI.cpp
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Resource_Manager.hpp(57,58): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'src/Blank_GUI.cpp')
+  
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(207,20): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(227,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,69): warning C4244:         with
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,69): warning C4244:         [
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,69): warning C4244:             T=unsigned int
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,69): warning C4244:         ]
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,69): warning C4244:         and
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,69): warning C4244:         [
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,69): warning C4244:             T=float
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,69): warning C4244:         ]
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,48): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,48): warning C4244:         with
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,48): warning C4244:         [
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,48): warning C4244:             T=unsigned int
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,48): warning C4244:         ]
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,48): warning C4244:         and
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,48): warning C4244:         [
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,48): warning C4244:             T=float
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(269,48): warning C4244:         ]
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(299,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(299,31): warning C4244:         with
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(299,31): warning C4244:         [
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(299,31): warning C4244:             T=float
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(299,31): warning C4244:         ]
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(304,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(304,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(310,19): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(310,19): warning C4244:         with
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(310,19): warning C4244:         [
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(310,19): warning C4244:             T=float
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(310,19): warning C4244:         ]
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(315,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\src\Blank_GUI.cpp(315,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+Blank_App_main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+  CirciutGUI.vcxproj -> D:\Programming\C++\SFML_ImGui_Template\CirciutGUI\bin\Debug-x64\Blank App_x64.exe
