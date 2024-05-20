@@ -35,12 +35,12 @@ A Complete Project of Blank App with everything working
 
 
 ### Projects made by using this Template
-> Circuit Simulator
+> [Circuit Simulator](https://github.com/IrfanJames/CircuitSimulator_SFML)
 
 ![](https://github.com/IrfanJames/SFML_ImGui_Template/blob/main/CirciutGUI/assets/temp/Circuit%20Simulator.png)
 
 ###
-> Network Simulation
+> [Network Simulation](https://github.com/IrfanJames/FLORA)
 
 ![](https://github.com/IrfanJames/SFML_ImGui_Template/blob/main/CirciutGUI/assets/temp/Network%20Simulation.png)
 
