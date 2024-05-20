@@ -5,14 +5,14 @@ A Complete Project of Blank App with everything working
 > This project has the following out of the box
 > 
 >  - [x] Already Setup
->    - [x] SFML
+>    - [x] [SFML](https://www.sfml-dev.org/)
 >      * With simple things handled
 >      * Like changing the View Size when resized
 >      * Added Dragging through world-space
->    - [x] Dear ImGui (For GUI)
+>    - [x] [Dear ImGui](https://github.com/ocornut/imgui) (For GUI)
 >      * By Default Docking is Enables
 >      * You can use both Docking and non-docking versions
->    - [x] Firebase c++ sdk (For Online Database etc)
+>    - [x] [Firebase](http://firebase.google.com/) [C++ SDK](https://firebase.google.com/download/cpp) (For Online Database etc)
 >      * The binaries are in GBs
 >      * so it is Optional, and doesn't come in default BlankApp
 >  - [x] Three Configs
