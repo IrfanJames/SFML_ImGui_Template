@@ -19,15 +19,15 @@ A Complete Project of Blank App with everything working
 >    * Debug
 >    * Realase
 >    * Dist
->  - [x] Embedding any type of assests in the .exe itself
->  - [x] Utility Libraries
->    - [x] Timer
->    - [x] Logging
+>  - [x] Embedded [Resource Manager](https://github.com/IrfanJames/SFML_ImGui_Template/wiki/Resource-Manager) (Embed any type of Assest in .exe itself)
+>  - [x] [Utility Libraries](https://github.com/IrfanJames/SFML_ImGui_Template/wiki/Utils)
+>    - [x] [Timer](https://github.com/IrfanJames/SFML_ImGui_Template/wiki/Timer)
+>    - [x] [Logging](https://github.com/IrfanJames/SFML_ImGui_Template/wiki/Logging)
 >      * Only Debug has Console
 >      * Realase prints in .txt file (automatically generated)
 >      * Dist disables Logging
 >      * All 3 behaviors with same code (but in differnt configs)
->    - [x] Open/Save As DialogBox (Window Native)
+>    - [x] Open/Save As [Dialog Box](https://github.com/IrfanJames/SFML_ImGui_Template/wiki/Dialog-Boxes) (Window Native)
 >  - [x] A Simple Software Architecture
 >      * It Separates unrealated Systems into different Namespaces
 >      * Remember this is a Project with just some Code already written
