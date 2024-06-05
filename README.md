@@ -1,6 +1,6 @@
 A Complete Project of Blank App with everything working
 
-> This Project help you code 80% of an App of Medium Complexity in 4-5 Hours
+> This Project (with its easy simple architecture) helps you to code 80% of an App of Medium Complexity in 4-5 Hours
 
 ## This project has the following out of the box
 - [x] Already Setup
